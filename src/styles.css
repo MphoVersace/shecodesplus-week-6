@@ -72,9 +72,8 @@ main {
 }
 
 .current-temperature-icon {
-  position: relative;
-  top: -8px;
-  font-size: 40px;
+  width: 50px;
+  height: 50px;
   margin-right: 10px;
 }
 
@@ -93,6 +92,5 @@ footer {
   border-top: 1px solid #f9f7fe;
   text-align: center;
   padding-top: 15px;
-
   color: rgba(39, 33, 66, 0.4);
 }
